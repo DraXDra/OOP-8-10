@@ -1,3 +1,7 @@
+/**
+ * MainProgram.java
+ * Program to demonstrate the functionality of Shape classes.
+ */
 public class MainProgram {
     public static void main(String[] args) {
         // Tạo danh sách các hình
