@@ -1,3 +1,6 @@
+/**
+ * Point class represents a point in 2D space with x and y coordinates.
+ */
 public class Point {
     private double x;
     private double y;
