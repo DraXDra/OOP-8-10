@@ -1,3 +1,6 @@
+/**
+ * Class representing a circle shape.
+ */
 public class Circle extends Shape {
     private double radius;
 

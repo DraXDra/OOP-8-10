@@ -1,4 +1,8 @@
-public class Rectangle extends Shape {
+/**
+ * Rectangle class representing a rectangle shape.
+ * Inherits from the Shape class.
+ */
+    public class Rectangle extends Shape {
     private double width;
     private double height;
 

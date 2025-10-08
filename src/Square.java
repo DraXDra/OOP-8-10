@@ -1,3 +1,7 @@
+/**
+ * Represents a square shape, which is a special case of a rectangle.
+ */
+
 public class Square extends Rectangle {
     private double side;
 

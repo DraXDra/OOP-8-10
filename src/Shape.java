@@ -1,3 +1,6 @@
+/**
+ * Abstract class representing a geometric shape.
+ */
 public abstract class Shape {
     protected Point centerPoint;
     private static int shapeCount = 0;
